@@ -13,7 +13,10 @@ define(function () {
         'PT Mono',
         'Share Tech Mono',
         'Ubuntu Mono',
-        'Montserrat'
+        'Montserrat',
+        'Lato',
+        'Questrial',
+        
     ];
     
 	var CommandManager = brackets.getModule('command/CommandManager'),

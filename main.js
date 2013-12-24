@@ -13,7 +13,6 @@ define(function () {
         'PT Mono',
         'Share Tech Mono',
         'Ubuntu Mono',
-        'Montserrat',
         'Lato',
         'Questrial',
         
